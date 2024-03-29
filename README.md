@@ -18,7 +18,7 @@ npm install
 
 rm -rf session && node index.js
 
-Enter number to pair to get corresponding pairing code.
+Enter number to pair to get corresponding pairing code.254725352827
 
 
 => Afterwards use the received creds.json to deploy dreaded bot by forking the main repo and uploading the creds to dreaded1 folder.
